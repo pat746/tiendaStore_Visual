@@ -1,0 +1,386 @@
+Array
+(
+    [nombre] => Rodri
+    [apellidoP] => Rodriguez
+    [apellidoM] => Sanchez
+    [email] => rodrigo.rodriguez@example.com
+    [contrasena] => paswo311
+    [telefono] => 987654325
+)
+Array
+(
+    [nombre] => Rodri
+    [apellidoP] => Rodriguez
+    [apellidoM] => Sanchez
+    [email] => rodrigo.rodriguez@example.com
+    [contrasena] => paswo311
+    [telefono] => 987654325
+)
+Array
+(
+    [nombre] => Rodri
+    [apellidoP] => Rodriguez
+    [apellidoM] => Sanchez
+    [email] => roro.rodriguez@example.com
+    [contrasena] => paswo311
+    [telefono] => 987654325
+)
+Array
+(
+    [nombre] => Rodri
+    [apellidoP] => Rodriguez
+    [apellidoM] => Sanchez
+    [email] => roro.rodriguez@example.com
+    [contrasena] => paswo311
+    [telefono] => 123456789
+)
+Array
+(
+    [nombre] => juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => admin
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [nombre] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [NomUsuario] => Juan
+    [contrasena] => 123456
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSe123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => clavaSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => clavaSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => Patricia24
+    [nombre] => Patricia
+    [apellidoP] => Ortiz
+    [apellidoM] => Salvador
+    [email] => soledad@gmail.com
+    [contrasena] => 123456
+    [telefono] => 987654321
+)
+Array
+(
+    [NomUsuario] => Patricia24
+    [nombre] => Patricia
+    [apellidoP] => Ortiz
+    [apellidoM] => Salvador
+    [email] => soledad@gmail.com
+    [contrasena] => 123456
+    [telefono] => 123456789
+)
+Array
+(
+    [NomUsuario] => Patricia26
+    [nombre] => Patricia
+    [apellidoP] => Ortiz
+    [apellidoM] => Salvador
+    [email] => rosaad@gmail.com
+    [contrasena] => 123456
+    [telefono] => 777788556
+)
+Array
+(
+    [NomUsuario] => Patricia25
+    [nombre] => Patricia
+    [apellidoP] => Ortiz
+    [apellidoM] => Salvador
+    [email] => rosa7d@gmail.com
+    [contrasena] => 123456
+    [telefono] => 777788546
+)
+Array
+(
+    [NomUsuario] => Patricia25
+    [nombre] => Patricia
+    [apellidoP] => Ortiz
+    [apellidoM] => Salvador
+    [email] => rosa7d@gmail.com
+    [contrasena] => 123456
+    [telefono] => 777788547
+)
+Array
+(
+    [NomUsuario] => jdoe
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => jdoe@example.com
+    [contrasena] => 123456
+    [telefono] => 987654321
+)
+Array
+(
+    [NomUsuario] => jdoe
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => jdoe@example.com
+    [contrasena] => 123456
+    [telefono] => 789459685
+)
+Array
+(
+    [NomUsuario] => jdoe
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => jdoe@example.com
+    [contrasena] => 123456
+    [telefono] => 789459685
+)
+Array
+(
+    [NomUsuario] => jdiiie
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => jdo55@example.com
+    [contrasena] => 123456
+    [telefono] => 7894789685
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jdoooie
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => j7o55@example.com
+    [contrasena] => 123456
+    [telefono] => 789478945
+)
+Array
+(
+    [NomUsuario] => mathias22
+    [nombre] => mathias
+    [apellidoP] => ecos
+    [apellidoM] => ortiz
+    [email] => soleda@hotmail.com
+    [contrasena] => 12345
+    [telefono] => 985632741
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jdoooie
+    [nombre] => John
+    [apellidoP] => Doe
+    [apellidoM] => Smith
+    [email] => j7o55@example.com
+    [contrasena] => 123456
+    [telefono] => 789478945
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => jlopez23
+    [contrasena] => claveSegura123
+)
+Array
+(
+    [NomUsuario] => maxito
+    [nombre] => max
+    [apellidoP] => rojas
+    [apellidoM] => huarcaya
+    [email] => max@gmail.com
+    [contrasena] => maxito
+    [telefono] => 966886625
+)
+Array
+(
+    [NomUsuario] => maxito
+    [contrasena] => maxito
+)
+Array
+(
+    [NomUsuario] => maxito
+    [contrasena] => maxito
+)
+Array
+(
+    [NomUsuario] => maxito
+    [contrasena] => maxito
+)

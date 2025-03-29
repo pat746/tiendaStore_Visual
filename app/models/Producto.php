@@ -48,5 +48,39 @@ class Producto extends Conexion{
 
     }
   }
+  public function update($params = []): bool {
+    $saveStatus = false;
+    try {
+        $sql = "UPDATE productos SET tipo = ?, genero = ?, talla = ?, precio = ? WHERE id = ?";
+        $consulta = $this->conexion->prepare($sql);
+        $saveStatus = $consulta->execute(array(
+            $params['tipo'],
+            $params['genero'],
+            $params['talla'],
+            $params['precio'],
+            $params['id']
+        ));
+        return $saveStatus;
+    } catch (Exception $e) {
+        return false;
+    }
 }
+
+
+public function delete($params=[]):bool{
+  $saveStatus=false;
+  try{
+    $sql= "DELETE FROM productos WHERE id=?";
+    $consulta=$this->conexion->prepare($sql);
+    $saveStatus=$consulta->execute(array(
+      $params['id']
+      ));
+      return $saveStatus;
+  }
+  catch(Exception $e){
+    return false;
+  }
+}
+}
+
 ?>
